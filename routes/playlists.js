@@ -29,7 +29,7 @@ router.post("/add", async (req, res) => {
   const params = [req.body.name];
 
   const queryResponse = await writeQuery(exampleDB, sql, params);
-  console.log(queryResponse);
+
   res.send(`Rows updated: ${queryResponse}`);
 });
 
