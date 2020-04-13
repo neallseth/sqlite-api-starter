@@ -1,5 +1,5 @@
 # sqlite-api-starter
-This project is meant to serve as a simple example of an SQLite-backed REST API built with Node.js and Express.  It can be used as a starter template, or alternatively, just to learn what an implemenation with this tech-stack may look like in practice.
+This project is meant to serve as a simple example of an SQLite-backed REST API built with Node.js and Express.  It can be used as a starter template, or alternatively, just to learn what an implemenation with this tech stack may look like in practice.
 
 ## Installation
 Run `npm i` to install all project dependencies
