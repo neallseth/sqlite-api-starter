@@ -5,5 +5,5 @@ This project is meant to serve as a simple example of an SQLite-backed REST API 
 Run `npm i` to install all project dependencies
 
 ## Usage
-1. Run `node server.js` to fire up the server
-2. Make a GET request to one of the example endpoints:  [http://localhost:3000/playlists](http://localhost:3000/playlists).  This should return a JSON array of objects representing the items in the Playlists table of the example database (to see why, check out /routes/playlists.js)
+1. Run `node server.js` to start the server
+2. Try a GET request to one of the example endpoints:  [http://localhost:3000/playlists](http://localhost:3000/playlists).  This should return a JSON array of objects representing the items in the Playlists table of the example database (to see why, check out /routes/playlists.js)
